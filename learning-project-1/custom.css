@@ -1,0 +1,26 @@
+.slider-bg{
+    background-color: #FAE8E7;
+}
+.btn-color{
+    background-color: #F3238A;
+}
+.bg-brown{
+    background-color: #FEB528;
+}
+.bg-blue{
+    background-color: #3F43FB;
+}
+.price-color{
+    color:#F3238A;
+}
+.bg-black{
+    background-color: black;
+    color:white;
+}
+.btn-pad{
+    padding:10px 40px;
+    margin-left: 4px;
+}
+.width{
+    width:60px;
+}
